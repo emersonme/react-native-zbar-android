@@ -112,7 +112,10 @@ public class ZBarReactModule extends ReactContextBaseJavaModule {
             }
             response.putString("state", "ok");
         }
-        mCallback.invoke(response);
+        if(response != null && mCallback != null ) {
+            mCallback.invoke(response);
+        }
+        
         mCallback = null;
         return;
     }
