@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-13:12
+		INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:1-13:12
+		INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:4:22-62
+application
+ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:6:5-11:19
+	android:supportsRtl
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:7:9-35
+activity#com.baq.rn.zbar.ZbarScannerActivity
+ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:10:9-72
+	android:name
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml:10:19-69
+uses-sdk
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		ADDED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/eleken/oa-mobile-app/node_modules/react-native-zbar-android/android/src/main/AndroidManifest.xml
