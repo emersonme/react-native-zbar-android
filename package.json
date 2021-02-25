@@ -1,6 +1,6 @@
 {
   "_from": "react-native-zbar-android@latest",
-  "_id": "react-native-zbar-android@0.0.3",
+  "_id": "react-native-zbar-android@0.0.4",
   "_inBundle": false,
   "_integrity": "sha1-Zs8JPCUetcYr6K7FYHA6I/3W4uQ=",
   "_location": "/react-native-zbar-android",
@@ -19,19 +19,18 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-zbar-android/-/react-native-zbar-android-0.0.3.tgz",
+  "_resolved": "https://registry.npmjs.org/react-native-zbar-android/-/react-native-zbar-android-0.0.4.tgz",
   "_shasum": "66cf093c251eb5c62be8aec560703a23fdd6e2e4",
   "_spec": "react-native-zbar-android@latest",
-  "_where": "/Users/eleken/oa-mobile-app",
   "bugs": {
-    "url": "https://github.com/ElekenAgency/react-native-zbar-android/issues"
+    "url": "https://github.com/emersonme/react-native-zbar-android/issues"
   },
   "bundleDependencies": false,
   "dependencies": {},
   "deprecated": false,
   "description": "zbar for react native",
   "devDependencies": {},
-  "homepage": "https://github.com/ElekenAgency/react-native-zbar-android#readme",
+  "homepage": "https://github.com/emersonme/react-native-zbar-android#readme",
   "keywords": [
     "zbar",
     "scan",
@@ -49,10 +48,10 @@
   "name": "react-native-zbar-android",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElekenAgency/react-native-zbar-android.git"
+    "url": "git+https://github.com/emersonme/react-native-zbar-android.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.3"
+  "version": "0.0.4"
 }
