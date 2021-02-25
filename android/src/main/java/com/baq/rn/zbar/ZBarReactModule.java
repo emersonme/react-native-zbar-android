@@ -59,9 +59,9 @@ public class ZBarReactModule extends ReactContextBaseJavaModule {
             return;
         }
 
-        if (!permissionsCheck(currentActivity)) {
-            return;
-        }
+        // if (!permissionsCheck(currentActivity)) {
+        //     return;
+        // }
 
         mCallback = callback;
         response = Arguments.createMap();
